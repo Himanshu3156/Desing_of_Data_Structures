@@ -92,4 +92,9 @@ Official lab problems aligned with BTech Semester 3 syllabus (303105202) and sup
 | 12         | Implement **Graphs** using adjacency list and matrix, and perform **BFS** and **DFS** traversals                 |
 
 
+DDS is a subject based on logic building and desing the data structures 
+basic of DDS having array,functions,condional statments etc 
+one of the most basics data structure is linear search algorithm 
+
+
 
